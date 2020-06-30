@@ -11,7 +11,7 @@ author={Keim, Jan and Kaplan, Angelika and Koziolek, Anne and Mirakhorli, Mehdi}
 title={Does {BERT} Understand Code? -- An Exploratory Study on the Detection of Architectural Tactics in Code},
 booktitle={14th European Conference on Software Architecture (ECSA 2020)},
 year={2020},
-publisher="{pringer International Publishing},
+publisher={Springer International Publishing},
 }
 
 ```
