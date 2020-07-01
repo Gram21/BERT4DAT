@@ -3,8 +3,6 @@ import re
 import argparse
 from pandas import DataFrame
 
-# TODO: recursive file traversal (into folders) when a certain flag is set. "Filename" is then the relative path from the root (starting folder)
-
 # filter keywords
 keywords = ["public", "private", "final", "static", "const", "override",
             "void", "int", "double", "float", "long", "string",
