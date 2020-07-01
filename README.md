@@ -9,6 +9,8 @@ Supplementary material for the paper "Does BERT Understand Code? -- An Explorato
 Note that we are not able to provide the actual models that were used to produce the results of the paper.
 The results may still be reproduced with the supplied notebooks and correct configurations.
 
+The original data sets can be found in at [SoftwareDesignLab/Archie](https://github.com/SoftwareDesignLab/Archie).
+
 
 ## How to cite
 ```
@@ -66,3 +68,9 @@ This repository contains the code used in the paper, as well as additional resul
 	- [prepareInput.py](./scripts/prepareInput.py): Script to preprocess the data
 	- [eval.py](./scripts/eval.py): Script used to proces the log produced for evaluation and calculate the metrics
 * [eval](./eval/) contains the results of all tested hyperparameter configurations for each task
+* [data](./data/) contains the already preprocessed data to be directly used in the notebooks.
+
+## Attribution
+The preprocessed datasets are based on the original dataset that can be found at [SoftwareDesignLab/Archie](https://github.com/SoftwareDesignLab/Archie). These datasets are used in the following papers:
+- Mirakhorli, M., & Cleland-Huang, J. (2016). Detecting, Tracing, and Monitoring Architectural Tactics in Code. IEEE Annals of the History of Computing, (03), 205-220.
+- Mirakhorli, M., Shin, Y., Cleland-Huang, J., & Cinar, M. (2012, June). A tactic-centric approach for automating traceability of quality concerns. In 2012 34th international conference on software engineering (ICSE) (pp. 639-649). IEEE.
