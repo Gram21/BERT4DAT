@@ -22,8 +22,22 @@ publisher={Springer International Publishing},
 
 ```
 
+This repository can be cited as:
+```
+@software{keim2020_3925166,
+  author       = {Jan Keim and Angelika Kaplan and Anne Koziolek and Mehdi Mirakhorli},
+  title        = {Gram21/BERT4DAT},
+  month        = jul,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.3925165},
+  url          = {https://doi.org/10.5281/zenodo.3925165}
+}
+```
+
 ## How to use
-The artifacts can be downloaded from Zenodo: TODO
+The artifacts can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.3925165).
 
 We recommend you to [open this repository in Google Colab](https://colab.research.google.com/github/Gram21/BERT4DAT/) (this link opens the submission repository directly in Colab and allows you to open one of the notebooks).
 With Colab, you should be able to open the notebooks, set the preferred configuration parameters and run all cells (CTRL+F9 or Runtime -> Run All).
