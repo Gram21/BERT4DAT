@@ -69,6 +69,11 @@ This repository contains the code used in the paper, as well as additional resul
 	- [eval.py](./scripts/eval.py): Script used to proces the log produced for evaluation and calculate the metrics
 * [eval](./eval/) contains the results of all tested hyperparameter configurations for each task
 * [data](./data/) contains the already preprocessed data to be directly used in the notebooks.
+	- Files with the prefix `1_` are part of the TSE paper by Mirakhorli et al. from 2016 (see [attribution](#attribution))
+	- Files with the prefix `2_` are part of the ICSE 2012 paper by Mirakhorli et al. (see [attribution](#attribution))
+	- Files with the prefix `Hadoop` are part of the Hadoop case stuy from the TSE paper by Mirakhorli et al. from 2016 (see [attribution](#attribution))
+	- The suffix `BegOnly_512` means that classes are cut after 512 tokens
+	- The suffix `Shrunk` means that classes are shrunk by removing method bodies
 
 ## Attribution
 The preprocessed datasets are based on the original dataset that can be found at [SoftwareDesignLab/Archie](https://github.com/SoftwareDesignLab/Archie). These datasets are used in the following papers:
