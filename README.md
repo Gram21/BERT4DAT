@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/Gram21/BERT4DAT/)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gram21/BERT4DAT/)
+
 # BERT4DAT
 
 Supplementary material for the paper "Does BERT Understand Code? -- An Exploratory Study on the Detection of Architectural Tactics in Code" by Jan Keim, Angelika Kaplan, Anne Koziolek, and Mehdi Mirakhorli for the [14th European Conference on Software Architecture (ECSA 2020)](https://ecsa2020.disim.univaq.it/).
