@@ -79,3 +79,5 @@ This repository contains the code used in the paper, as well as additional resul
 The preprocessed datasets are based on the original dataset that can be found at [SoftwareDesignLab/Archie](https://github.com/SoftwareDesignLab/Archie). These datasets are used in the following papers:
 - Mirakhorli, M., & Cleland-Huang, J. (2016). Detecting, Tracing, and Monitoring Architectural Tactics in Code. IEEE Annals of the History of Computing, (03), 205-220.
 - Mirakhorli, M., Shin, Y., Cleland-Huang, J., & Cinar, M. (2012, June). A tactic-centric approach for automating traceability of quality concerns. In 2012 34th international conference on software engineering (ICSE) (pp. 639-649). IEEE.
+
+For the case study, we used [Apache Hadoop](https://hadoop.apache.org).
