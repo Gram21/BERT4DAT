@@ -4,7 +4,7 @@
 
 # BERT4DAT
 
-Supplementary material for the paper "Does BERT Understand Code? -- An Exploratory Study on the Detection of Architectural Tactics in Code" by Jan Keim, Angelika Kaplan, Anne Koziolek, and Mehdi Mirakhorli for the [14th European Conference on Software Architecture (ECSA 2020)](https://ecsa2020.disim.univaq.it/).
+Supplementary material for the paper ["Does BERT Understand Code? -- An Exploratory Study on the Detection of Architectural Tactics in Code" by Jan Keim, Angelika Kaplan, Anne Koziolek, and Mehdi Mirakhorli](https://ecsa2020.disim.univaq.it/details/ecsa-2020-papers/13/Does-BERT-understand-code-An-exploratory-study-on-the-detection-of-architectural-t) for the [14th European Conference on Software Architecture (ECSA 2020)](https://ecsa2020.disim.univaq.it/).
 
 Note that we are not able to provide the actual models that were used to produce the results of the paper.
 The results may still be reproduced with the supplied notebooks and correct configurations.
