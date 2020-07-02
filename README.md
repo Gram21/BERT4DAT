@@ -50,7 +50,7 @@ If you plan on running locally, you need to install [Jupyter](https://jupyter.or
 Furthermore, you might have to install further python dependencies than the ones installed in the notebooks (first cell) depending on your python installation.
 You have to make sure that you installed all python libraries that are imported in the second cell via pip.
 It is neccessary to install [PyTorch](https://pytorch.org/get-started/locally/#start-locally).
-You will need a machine with a very potent GPU (at least 12GB GPU RAM for the large models) as the pretrained BERT model is very memory hungry.
+You will need a machine with a very potent GPU (at least 12GB GPU RAM is recommended) as the pretrained BERT model is very memory hungry.
 Also, you have to make sure that your GPU and drivers support CUDA.
 We recommend Ubuntu as operating system.
 Moreover, some parts of the notebooks are coded and designed for Colab; there might be some differences in appearance.
